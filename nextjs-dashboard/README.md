@@ -6,4 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 https://nextjs.org/learn/dashboard-app/getting-started
 
-Fortsätt på övning 4: https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages
+## Uppgift
+
+Det finns 16 kapitel, foka på kap. 1-5 och sedan valfritt 9,14,16
+Fortsätt här: övning 6, https://nextjs.org/learn/dashboard-app/setting-up-your-database
